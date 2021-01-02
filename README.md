@@ -1,7 +1,2 @@
 # hello-world
-#include <stdio.h>
-
-int main(void)
-{
-  printf("hello, world\n");
-  }
+I am excied to begin my CS journey! 
